@@ -6,4 +6,5 @@
  Languages: Rust, C#, Python
  Interests: GNU/Linux, Coding, Privacy, Hacking
  Portfolio: https://nexa.dev
+ Contact: contact@nexa.dev
  ```
