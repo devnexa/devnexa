@@ -8,3 +8,7 @@
  Portfolio: https://nexa.dev
  Contact: contact@nexa.dev
  ```
+ 
+#### I'm currently 
+- Studying in Germany
+- Learning Rust
